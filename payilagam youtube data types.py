@@ -169,8 +169,3 @@ print(name[5:-5])
 print(name[10:1:-2])
 
 print(name[::4])
-
-
-
-
-
